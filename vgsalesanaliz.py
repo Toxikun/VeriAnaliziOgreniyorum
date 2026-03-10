@@ -88,3 +88,9 @@ print("NA:", df.loc[df['NA_Sales'].idxmax()]['Genre'])
 print("EU:", df.loc[df['EU_Sales'].idxmax()]['Genre'])
 print("JP:", df.loc[df['JP_Sales'].idxmax()]['Genre'])
 print("Other:", df.loc[df['Other_Sales'].idxmax()]['Genre'])
+
+idx = df.groupby('Year')['Global_Sales'].idxmax()
+bestSellersByYears = df.loc[idx, ['Year', 'Name', 'Global_Sales']]
+bestSellersByYears = bestSellersByYears.sort_values('Year')
+print("--- Best Sellers By Years ---")
+print(bestSellersByYears)
