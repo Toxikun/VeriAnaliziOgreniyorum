@@ -1,6 +1,6 @@
 # API ve Veri Bilimi Öğrenme(Basit Düzey) 🚀
 
-Bu proje, Python dünyasındaki modern API geliştirme araçlarını (FastAPI) ve veri analizi kütüphanelerini (Pandas, Numpy, Matplotlib, Seaborn) öğrenmek amacıyla oluşturulmuş bir çalışma alanıdır.
+Bu proje, Python dünyasındaki modern API geliştirme araçlarını (FastAPI) ve veri analizi kütüphanelerini (Pandas, Numpy, Matplotlib, Seaborn) öğrenmek amacıyla oluşturulmuş bir çalışma alanıdır. Veri analizi dünyasının "Hello World!" projesidir.
 
 ## 🎯 Motivasyon (Neden?)
 
