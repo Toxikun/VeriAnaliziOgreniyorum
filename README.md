@@ -1,6 +1,6 @@
-# API ve Veri Bilimi Öğrenme Günlüğü 🚀
+# API ve Veri Bilimi Öğrenme(Basit)🚀
 
-Bu proje, Python dünyasındaki modern API geliştirme araçlarını (FastAPI) ve veri analizi kütüphanelerini (Pandas, Numpy, Matplotlib, Seaborn) öğrenmek amacıyla oluşturulmuş bir çalışma alanıdır.
+Bu proje, Python dünyasındaki modern API geliştirme araçlarını (FastAPI) ve veri analizi kütüphanelerini (Pandas, Numpy, Matplotlib, Seaborn) öğrenmek amacıyla oluşturulmuş bir çalışma alanıdır. Bu projedeki her şey alanının temel yapıtaşlarına hakim olmak içindir.
 
 ## 🎯 Motivasyon (Neden?)
 
